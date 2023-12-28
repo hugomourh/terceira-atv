@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    height: 100%;
+}
+
+ h2{
+    color:white;
+    border-bottom: 50px;
+    line-height:3.0;
+    
+    
+    
+}
+
+body {
+    align-items: center;
+    background-color: #F6F8FA;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.seleção {
+  
+    background-color: white;
+    padding: 100px;
+   box-shadow: darksalmon;
+   background-color: blue;
+   border-radius: 16px;
+}
+
+ form input{
+    border-radius: 16px;
+    padding: 10px;
+    font-size: 15px;
+ 
+    
+    
+}
+
+textarea{
+    padding: 15px;
+    border-radius: 16px;
+
+}
+
+.button{
+    border-radius: 16px;
+    background-color: black;
+    color: antiquewhite;
+    padding: 15px;
+    border: 3px;
+    cursor: pointer;
+   margin: auto;
+    
+}
